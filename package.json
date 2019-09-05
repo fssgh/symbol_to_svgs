@@ -1,0 +1,11 @@
+{
+    "name": "symbol_to_svgs",
+    "version": "0.0.1",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3"
+    },
+    "description": "基于 cheerio 分解 svg symbol集合文件成多个单独的svg 文件。",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
